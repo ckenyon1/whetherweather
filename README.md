@@ -1,14 +1,15 @@
-# weather_app_tutorial
-Code base for the React Weather App tutorial found here: 
-www.tiny.cc/a0h1ty
 
+<kbd><img src="./thumbnail_WhetherWeather.png" /></kbd>
 
-To install from your terminal:
+# WhetherWeather
+* Full Stack App determining what the weather is like in a safe and extremely lightweight way, from an outside API.
 
--Clone this repository to your local machine |
-`git clone https://github.com/maisonm/weather_app_tutorial`
-
-- Navigate to the repo on your machine, and install the dependencies from `package.json` |
-`cd weather_app_tutorial` => `npm install` 
-
-#### This application was created with Node.js, Express, React and the Open Weather Map API found here: https://openweathermap.org/api
+## Tech: 
+    Front-End: 
+         Framework - React
+         Data structure - Redux
+         API fetch- Axios
+    Back-End: 
+         Framework Base - Node
+         Server API -  Express
+         API fetch- Axios
